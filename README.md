@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi 👋, I'm Iqra Mahmood</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">A passionate Data Scientist from Pakistan </h3>
 
 <p align="left"> <a href="https://twitter.com/iqra_multaji" target="blank"><img src="https://img.shields.io/twitter/follow/iqra_multaji?logo=twitter&style=for-the-badge" alt="iqra_multaji" /></a> </p>
 
