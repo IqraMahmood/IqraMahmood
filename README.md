@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 📝 I regularly write articles on [https://medium.com/@iqramultaji](https://medium.com/@iqramultaji)
 
-- 📫 How to reach me **iqramultaji@gmail.com**
+- 📫 How to reach me *iqramultaji@gmail.com*
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
