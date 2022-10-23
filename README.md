@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/iqra_multaji" target="blank"><img src="https://img.shields.io/twitter/follow/iqra_multaji?logo=twitter&style=for-the-badge" alt="iqra_multaji" /></a> </p>
 
-- 🔭 I’m currently working on **Brain Tumor Detection**
+- 🔭 I’m currently working on *Brain Tumor Detection*
 
 - 📝 I regularly write articles on [https://medium.com/@iqramultaji](https://medium.com/@iqramultaji)
 
