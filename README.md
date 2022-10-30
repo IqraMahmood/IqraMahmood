@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on *Brain Tumor Detection*
 
-- 📝 I regularly write articles on [https://medium.com/@iqramultaji](https://medium.com/@iqramultaji)
+- 📝 I write articles on [https://medium.com/@iqramultaji](https://medium.com/@iqramultaji)
 
 - 📫 How to reach me *iqramultaji@gmail.com*
 
